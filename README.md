@@ -1,7 +1,7 @@
 # react-ghaction
 React application with build with GH Actions and publishes to GH Pages.
 
-# directory structure
+# directory structure [WIP]
 ```
 .
 └── README.md
