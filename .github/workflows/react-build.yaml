@@ -27,6 +27,9 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
 
+    - name: CD to JS App
+      run: cd react-index-site
+
     - name: Install dependencies
       run: npm install
 
